@@ -653,3 +653,4 @@ Watch OpenShift WebConsole Developer perspective and a PipelineRun will be autom
 
 ![pipeline-run-api](docs/images/pipeline-run-api.png
 )
+
